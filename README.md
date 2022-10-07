@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is: Cool_Gamer The Spy
+- 🔭 I’m currently working on Vs. AA (Gamer Engine).
+- 🌱 I’m currently learning Haxel Flixel.
+- ⚡ Fun fact: Cheaters never win. :3
 <!--
 **GreatCOOLGamer2000/GreatCOOLGamer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
