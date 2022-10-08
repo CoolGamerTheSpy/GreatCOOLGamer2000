@@ -1,8 +1,18 @@
-### Hi there 👋
-My name is: Cool_Gamer The Spy
-- 🔭 I’m currently working on Vs. AA (Gamer Engine).
+## About Me
+Hi 👋, My name is Cool_Gamer The Spy
+## Some things about me
+- 📫 Discord : Jack-O-GamerTheProgrramingSpy#1987
 - 🌱 I’m currently learning Haxel Flixel.
 - ⚡ Fun fact: Cheaters never win. :3
+## Some Projects I am working in
+- Animatronic Attack
+- Vs. Alica
+- FNF Gamer Engine
+- Fear Zone
+- Night in Gamer's
+- More To Come ...
+## Check Out My Discord Sever!!
+-I will have the link here soon...
 <!--
 **GreatCOOLGamer2000/GreatCOOLGamer2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
