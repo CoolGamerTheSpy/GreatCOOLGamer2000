@@ -1,6 +1,6 @@
 ## About Me
 Hi 👋, My name is Cool_Gamer The Spy
-## Some things about me
+
 - 📫 Discord : Jack-O-GamerTheProgrramingSpy#1987
 - 🌱 I’m currently learning Haxel Flixel.
 - ⚡ Fun fact: Cheaters never win. :3
